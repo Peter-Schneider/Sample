@@ -1,0 +1,2 @@
+﻿CREATE USER [jae0] WITHOUT LOGIN;
+

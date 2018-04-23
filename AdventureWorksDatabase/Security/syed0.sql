@@ -1,0 +1,2 @@
+﻿CREATE USER [syed0] WITHOUT LOGIN;
+

@@ -1,0 +1,2 @@
+﻿CREATE USER [tete0] WITHOUT LOGIN;
+
